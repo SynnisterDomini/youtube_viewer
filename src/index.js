@@ -7,7 +7,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list'
 import VideoDetail from './components/video_detail'
 
-const YOUTUBE_API_KEY = 'API_KEY_HERE'
+const YOUTUBE_API_KEY = 'API_KEY'
 
 // create new component (produces html)
 
